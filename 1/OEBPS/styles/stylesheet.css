@@ -1,0 +1,158 @@
+.para8 {
+  text-align: justify;
+}
+
+.para3 {
+  text-align: center;
+}
+
+.para12 {
+  text-align: start;
+}
+
+.para6 {
+  text-align: right;
+}
+
+.para11 { /* encart coupe 3 sorciers */
+  margin: 1em 0 1em !important;
+  border: 1px solid #000;
+  text-align:center;
+}
+
+.span1 {
+  font-style: italic;
+}
+
+.span0 {
+  font-size: 18.0000pt;
+  font-weight: bold;
+}
+
+.span6 {
+  font-size: 16.0000pt;
+  font-weight: bold;
+}
+
+.span13 {
+  font-weight: bold;
+}
+
+.span11 { /* encart coupe 3 sorciers */
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Arial';
+  font-size: 10.5000pt;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  text-transform: none;
+}
+
+.body0 {
+  -epub-writing-mode: horizontal-tb;
+  -webkit-writing-mode: horizontal-tb;
+  direction: ltr;
+  writing-mode: horizontal-tb;
+}
+
+.body0 p {
+  text-indent: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+blockquote {
+	margin: 1em 0 1em;
+}
+
+.frame6 {
+  border: none;
+  width: 3.5280in;
+}
+
+.frame0 {
+  border: none;
+  float: left;
+  width: 6.3193in;
+}
+
+.frame2 {
+  border: none;
+  width: 2.7780in;
+}
+
+.frame1 {
+  border: none;
+  width: 2.6528in;
+}
+
+.frame7 {
+  border: none;
+  width: 3.6252in;
+}
+
+.frame3 {
+  border: none;
+  width: 0.6665in;
+}
+
+.frame4 {
+  border: none;
+  width: 3.5835in;
+}
+
+.frame5 {
+  border: none;
+  width: 2.6110in;
+}
+
+.frame8 {
+  border: none;
+  width: 3.0138in;
+}
+
+.frame9 {
+  border: none;
+  width: 2.2780in;
+}
+
+.frame15 {
+  border: none;
+  width: 3.2780in;
+}
+
+.frame10 {
+  border: none;
+  width: 2.5835in;
+}
+
+.frame11 {
+  border: none;
+  width: 2.3610in;
+}
+
+.frame13 {
+  border: none;
+  width: 3.3055in;
+}
+
+.frame12 {
+  border: none;
+  width: 3.8752in;
+}
+
+.frame14 {
+  border: none;
+  width: 2.3890in;
+}
+
+.frame16 {
+  border: none;
+  width: 3.1110in;
+}
+
+.frame17 {
+  border: none;
+  width: 3.8193in;
+}

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="" name="" scheme=""/>
+  </head>
+  <docTitle>
+    <text></text>
+  </docTitle>
+  <navMap>
+    <navPoint class="document" id="section1" playOrder="1">
+      <navLabel>
+        <text>Mentions</text>
+      </navLabel>
+      <content src="sections/section0001.xhtml"/>
+    </navPoint>
+	<navPoint class="document" id="traduction" playOrder="2">
+      <navLabel>
+        <text>Note de traduction</text>
+      </navLabel>
+      <content src="sections/traduction.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="dedicace" playOrder="3">
+      <navLabel>
+        <text>Dédicace</text>
+      </navLabel>
+      <content src="sections/section0001.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section2" playOrder="4">
+      <navLabel>
+        <text>PROLOGUE</text>
+      </navLabel>
+      <content src="sections/section0002.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section3" playOrder="5">
+      <navLabel>
+        <text>1. L’INTERVIEW</text>
+      </navLabel>
+      <content src="sections/section0003.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section4" playOrder="6">
+      <navLabel>
+        <text>2. LES VENTS DU CHANGEMENT</text>
+      </navLabel>
+      <content src="sections/section0004.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section5" playOrder="7">
+      <navLabel>
+        <text>3. LE SOMMET DE MINUIT</text>
+      </navLabel>
+      <content src="sections/section0005.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section6" playOrder="8">
+      <navLabel>
+        <text>4. LE SECRET DE LA DAGUE</text>
+      </navLabel>
+      <content src="sections/section0006.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section7" playOrder="9">
+      <navLabel>
+        <text>5. AURORS JUNIORS EN FORMATION</text>
+      </navLabel>
+      <content src="sections/section0007.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section8" playOrder="10">
+      <navLabel>
+        <text>6. ORDONNANCE TREIZE</text>
+      </navLabel>
+      <content src="sections/section0008.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section9" playOrder="11">
+      <navLabel>
+        <text>7. LES ESSAIS QU’IL N’AURA PAS MANQUÉS</text>
+      </navLabel>
+      <content src="sections/section0009.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section10" playOrder="12">
+      <navLabel>
+        <text>8. LE FIL ET LA BROCHE</text>
+      </navLabel>
+      <content src="sections/section0010.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section11" playOrder="13">
+      <navLabel>
+        <text>9. PEEVES JOUE SON RÔLE</text>
+      </navLabel>
+      <content src="sections/section0011.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section12" playOrder="14">
+      <navLabel>
+        <text>10. LETTRE D’HAGRID</text>
+      </navLabel>
+      <content src="sections/section0012.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section13" playOrder="15">
+      <navLabel>
+        <text>11. PALET DE BLACKBRIER</text>
+      </navLabel>
+      <content src="sections/section0013.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section14" playOrder="16">
+      <navLabel>
+        <text>12. RENDEZ-VOUS DE MINUIT</text>
+      </navLabel>
+      <content src="sections/section0014.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section15" playOrder="17">
+      <navLabel>
+        <text>13. LE TRIUMVIRAT REVISITÉ</text>
+      </navLabel>
+      <content src="sections/section0015.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section16" playOrder="18">
+      <navLabel>
+        <text>14. LE SOULÈVEMENT ELFIQUE</text>
+      </navLabel>
+      <content src="sections/section0016.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section17" playOrder="19">
+      <navLabel>
+        <text>15. CELUI QUI REPRÉSENTE TOUT LE MONDE</text>
+      </navLabel>
+      <content src="sections/section0017.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section18" playOrder="20">
+      <navLabel>
+        <text>16. HAGRID A UN PLAN</text>
+      </navLabel>
+      <content src="sections/section0018.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section19" playOrder="21">
+      <navLabel>
+        <text>17. LA CONSPIRATION DU DRAGON</text>
+      </navLabel>
+      <content src="sections/section0019.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section20" playOrder="22">
+      <navLabel>
+        <text>18. UN BREF SURSIS</text>
+      </navLabel>
+      <content src="sections/section0020.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section21" playOrder="23">
+      <navLabel>
+        <text>19. RETOUR A LONDRES</text>
+      </navLabel>
+      <content src="sections/section0021.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section22" playOrder="24">
+      <navLabel>
+        <text>20. LE MONDE S’EFFONDRE</text>
+      </navLabel>
+      <content src="sections/section0022.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section23" playOrder="25">
+      <navLabel>
+        <text>21. LES PLANS S’EFFONDRENT</text>
+      </navLabel>
+      <content src="sections/section0023.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section24" playOrder="26">
+      <navLabel>
+        <text>22. LE DÉBUT DE LA FIN</text>
+      </navLabel>
+      <content src="sections/section0024.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section25" playOrder="27">
+      <navLabel>
+        <text>23. LE CHAOS S’ABAT</text>
+      </navLabel>
+      <content src="sections/section0025.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section26" playOrder="28">
+      <navLabel>
+        <text>24. LE SANG DE L’AMOUR LE PLUS CHER</text>
+      </navLabel>
+      <content src="sections/section0026.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section27" playOrder="29">
+      <navLabel>
+        <text>25. LE TEMPS ENTRE LES TEMPS</text>
+      </navLabel>
+      <content src="sections/section0027.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section28" playOrder="30">
+      <navLabel>
+        <text>26. LA MANILLE DE LA BROCHE</text>
+      </navLabel>
+      <content src="sections/section0028.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section29" playOrder="31">
+      <navLabel>
+        <text>27. L’ÉNIGME DU TRIPLE-SIX</text>
+      </navLabel>
+      <content src="sections/section0029.xhtml"/>
+    </navPoint>
+    <navPoint class="document" id="section30" playOrder="32">
+      <navLabel>
+        <text>EPILOGUE DIX-NEUF ANS PLUS TARD</text>
+      </navLabel>
+      <content src="sections/section0030.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

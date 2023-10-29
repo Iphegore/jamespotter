@@ -1,0 +1,76 @@
+# This is a basic workflow to help you get started with Actions
+
+name: GenerateePub
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      packages: write
+    
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@master
+      
+      - name: JP1
+        uses:  thedoctor0/zip-release@b83d190120fd312e55085447f958f8263b44098a
+        with:
+          directory: '1/'
+          type: 'zip'
+          filename: '../output/1-James Potter et la Croisée des Anciens.epub'
+          exclusions: '*.git*'
+          
+      - name: JP2
+        uses:  thedoctor0/zip-release@b83d190120fd312e55085447f958f8263b44098a
+        with:
+          directory: '2/'
+          type: 'zip'
+          filename: '../output/2-James Potter et la malédiction du Gardien de la Porte.epub'
+          exclusions: '*.git*'
+          
+      - name: JP3
+        uses:  thedoctor0/zip-release@b83d190120fd312e55085447f958f8263b44098a
+        with:
+          directory: '3/'
+          type: 'zip'
+          filename: '../output/3-James Potter et la Voûte des destinées.epub'
+          exclusions: '*.git*'
+          
+      - name: JP4
+        uses:  thedoctor0/zip-release@b83d190120fd312e55085447f958f8263b44098a
+        with:
+          directory: '4/'
+          type: 'zip'
+          filename: '../output/4-James Potter et la Toile de Morrigan.epub'
+          exclusions: '*.git*'
+          
+      - name: JP5
+        uses:  thedoctor0/zip-release@b83d190120fd312e55085447f958f8263b44098a
+        with:
+          directory: '5/'
+          type: 'zip'
+          filename: '../output/5-James Potter et le Fil pourpre.epub'
+          exclusions: '*.git*'
+
+      - name: Create a release
+        uses: ncipollo/release-action@6c75be85e571768fa31b40abf38de58ba0397db5
+        with:
+          allowUpdates: true
+          removeArtifacts: true
+          artifactErrorsFailBuild: true
+          artifactContentType: 'application/epub+zip'
+          body: "La dernière version des ePub de la traduction française de James Potter est disponible ci-dessous. Avec le soutien d'Hydralune."
+          artifacts: "output/*.epub"
+          tag: 'augoutdujour'
+          token: ${{ secrets.GITHUB_TOKEN }}

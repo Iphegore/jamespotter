@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="unique-identifier" xmlns="http://www.idpf.org/2007/opf" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <metadata xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="unique-identifier">5e994c91-3447-4279-8d21-e5adab42f5b9</dc:identifier>
+    <dc:title>1 - James Potter et la Croisée des Anciens</dc:title>
+    <dc:creator>G. Norman Lippert</dc:creator>
+    <dc:contributor>Iphégore Ossenoire</dc:contributor>
+    <dc:language>fr-FR</dc:language>
+    <meta property="dcterms:modified">2023-10-29T10:06:36Z</meta>
+    <meta content="LibreOffice/7.3.2.2$Windows_X86_64 LibreOffice_project/49f2b1bff42cfccbd8f788c8dc32c1c309559be0 (libepubgen/0.1.1)" name="generator"/>
+    <meta name="Sigil version" content="2.0.1"/>
+    <meta name="cover" content="cover.jpg"/>
+  </metadata>
+  <manifest>
+    <item id="section0001" href="sections/section0001.xhtml" media-type="application/xhtml+xml"/>
+    <item id="section0004" href="sections/section0004.xhtml" media-type="application/xhtml+xml"/>
+    <item id="toc.xhtml" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="image0002" href="images/image0002.jpg" media-type="image/jpeg"/>
+    <item id="image0011" href="images/image0011.jpg" media-type="image/jpeg"/>
+    <item id="toc.ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="stylesheet.css" href="styles/stylesheet.css" media-type="text/css"/>
+    <item id="section0002" href="sections/section0002.xhtml" media-type="application/xhtml+xml"/>
+    <item id="section0003" href="sections/section0003.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0003" href="images/image0003.jpg" media-type="image/jpeg"/>
+    <item id="image0004" href="images/image0004.png" media-type="image/png"/>
+    <item id="section0005" href="sections/section0005.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0005" href="images/image0005.jpg" media-type="image/jpeg"/>
+    <item id="section0006" href="sections/section0006.xhtml" media-type="application/xhtml+xml"/>
+    <item id="section0022" href="sections/section0022.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0006" href="images/image0006.jpg" media-type="image/jpeg"/>
+    <item id="image0023" href="images/image0023.jpg" media-type="image/jpeg"/>
+    <item id="section0007" href="sections/section0007.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0007" href="images/image0007.jpg" media-type="image/jpeg"/>
+    <item id="section0008" href="sections/section0008.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0008" href="images/image0008.jpg" media-type="image/jpeg"/>
+    <item id="section0009" href="sections/section0009.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0009" href="images/image0009.jpg" media-type="image/jpeg"/>
+    <item id="image0010" href="images/image0010.jpg" media-type="image/jpeg"/>
+    <item id="section0010" href="sections/section0010.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0022" href="images/image0022.jpg" media-type="image/jpeg"/>
+    <item id="section0011" href="sections/section0011.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0012" href="images/image0012.jpg" media-type="image/jpeg"/>
+    <item id="section0012" href="sections/section0012.xhtml" media-type="application/xhtml+xml"/>
+    <item id="section0020" href="sections/section0020.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0013" href="images/image0013.jpg" media-type="image/jpeg"/>
+    <item id="section0013" href="sections/section0013.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0014" href="images/image0014.jpg" media-type="image/jpeg"/>
+    <item id="section0014" href="sections/section0014.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0015" href="images/image0015.jpg" media-type="image/jpeg"/>
+    <item id="section0015" href="sections/section0015.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0016" href="images/image0016.jpg" media-type="image/jpeg"/>
+    <item id="section0016" href="sections/section0016.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0017" href="images/image0017.jpg" media-type="image/jpeg"/>
+    <item id="section0017" href="sections/section0017.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0018" href="images/image0018.jpg" media-type="image/jpeg"/>
+    <item id="section0018" href="sections/section0018.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0019" href="images/image0019.jpg" media-type="image/jpeg"/>
+    <item id="section0019" href="sections/section0019.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0020" href="images/image0020.jpg" media-type="image/jpeg"/>
+    <item id="section0023" href="sections/section0023.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0021" href="images/image0021.jpg" media-type="image/jpeg"/>
+    <item id="section0021" href="sections/section0021.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0024" href="images/image0024.jpg" media-type="image/jpeg"/>
+    <item id="section0024" href="sections/section0024.xhtml" media-type="application/xhtml+xml"/>
+    <item id="image0025" href="images/image0025.jpg" media-type="image/jpeg"/>
+    <item id="section0025" href="sections/section0025.xhtml" media-type="application/xhtml+xml"/>
+    <item id="section0026" href="sections/section0026.xhtml" media-type="application/xhtml+xml"/>
+    <item id="traduction.xhtml" href="sections/traduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="cover.jpg" href="images/cover.jpg" media-type="image/png" properties="cover-image"/>
+    <item id="cover.xhtml" href="sections/cover.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+  </manifest>
+  <spine toc="toc.ncx">
+    <itemref idref="cover.xhtml"/>
+    <itemref idref="section0001"/>
+    <itemref idref="traduction.xhtml"/>
+    <itemref idref="section0002"/>
+    <itemref idref="section0003"/>
+    <itemref idref="section0004"/>
+    <itemref idref="section0005"/>
+    <itemref idref="section0006"/>
+    <itemref idref="section0007"/>
+    <itemref idref="section0008"/>
+    <itemref idref="section0009"/>
+    <itemref idref="section0010"/>
+    <itemref idref="section0011"/>
+    <itemref idref="section0012"/>
+    <itemref idref="section0013"/>
+    <itemref idref="section0014"/>
+    <itemref idref="section0015"/>
+    <itemref idref="section0016"/>
+    <itemref idref="section0017"/>
+    <itemref idref="section0018"/>
+    <itemref idref="section0019"/>
+    <itemref idref="section0020"/>
+    <itemref idref="section0021"/>
+    <itemref idref="section0022"/>
+    <itemref idref="section0023"/>
+    <itemref idref="section0024"/>
+    <itemref idref="section0025"/>
+    <itemref idref="section0026"/>
+    <itemref idref="toc.xhtml"/>
+  </spine>
+</package>
